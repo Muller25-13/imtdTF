@@ -12,7 +12,7 @@
     max-width: 640px;
     min-width: 300px;
     margin: 0 auto;
-    background: rgba(201, 21,35, 0);
+    background: red;
     height: 40px;
     position: relative;
 }
@@ -23,6 +23,8 @@
     background-position: 0 -103px;
     top: 4px;
     left: 10px;
+    background: url(../images/Pingguo.png)no-repeat;
+    background-size: 60px 36px;
 
 }
 .hm_header>.hm_header_box>.login{
@@ -30,12 +32,12 @@
     height: 40px;
     line-height: 40px;
     text-align: center;
-    color: red;
+    color: black;
     position: absolute;
     right: 0;
     top: 0;
     font-size: 15px;
-
+    
 }
 
 
